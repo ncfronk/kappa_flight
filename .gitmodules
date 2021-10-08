@@ -1,9 +1,9 @@
 [submodule "ardupilot"]
-	path = ardupilot
+	path = submodules/ardupilot
 	url = git@github.com:ArduPilot/ardupilot.git
 [submodule "unified-targets"]
-	path = unified-targets
+	path = submodules/unified-targets
 	url = git@github.com:betaflight/unified-targets.git
 [submodule "betaflight"]
-	path = betaflight
+	path = submodules/betaflight
 	url = git@github.com:betaflight/betaflight.git
